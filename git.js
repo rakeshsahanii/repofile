@@ -5,4 +5,6 @@ function greet(name) {
 }
 
 console.log(greet('Ramesh sahani'));
+console.log(greet('sahani'));
+
 
