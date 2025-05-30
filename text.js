@@ -4,3 +4,5 @@ function add(a) {
 
 }
 console.log(add(3));
+console.log(add(5));
+
